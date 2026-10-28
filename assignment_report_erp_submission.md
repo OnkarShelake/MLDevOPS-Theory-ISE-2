@@ -3,6 +3,11 @@
 
 ---
 
+- **Student Name:** Onkar Shelake
+- **Roll No:** 28
+- **PRN:** 2324000676
+- **Email:** onkarshelake012@gmail.com
+- **GitHub Repository URL:** https://github.com/OnkarShelake/MLDevOPS-Theory-ISE-2
 - **Course / Module:** MLOps & Machine Learning Systems Engineering (ISE / CS)
 - **Tool Identifier:** Tool 1 (MLflow & Continuous Drift Monitoring Engine)
 - **Weightage:** 20 Marks (Converted to 10 Marks)

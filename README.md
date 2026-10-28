@@ -7,6 +7,12 @@
 
 An end-to-end industry-grade **MLOps Drift Detection and Automated Retraining System** developed for **Tool 1: MLflow Assignment** (FinTech / Banking Credit Risk Default Domain).
 
+- **Student Name:** Onkar Shelake
+- **Roll No:** 28
+- **PRN:** 2324000676
+- **Email:** onkarshelake012@gmail.com
+- **GitHub Repository:** [https://github.com/OnkarShelake/MLDevOPS-Theory-ISE-2](https://github.com/OnkarShelake/MLDevOPS-Theory-ISE-2)
+
 Mapped to:
 - **CO1 (Level 2 - Understand/Comprehend):** Theoretical concepts across Units 1, 2, and 3 (MLOps Lifecycle, MLflow Tracking, Drift Taxonomy: Covariate Shift, Concept Drift, Prior Probability Shift, PSI, KS-Test).
 - **CO2 (Level 3 - Apply/Design/Deploy):** Pipeline design, model tracking, statistical drift monitoring engine, automated Continuous Training (CT), and FastAPI REST deployment.
